@@ -84,10 +84,9 @@ The app will open at `http://localhost:8501`
 1. **Start Chat**: Open the app and see the welcome message
 2. **Book Appointment**: Say "I want to book" (Option 1)
 3. **Auto-Redirect**: You'll be taken to the admin dashboard
-4. **Login**: Enter password: `admin123`
-5. **Create Booking**: Click "✨ New Booking" tab and fill the form
-6. **Confirm**: Click "✅ Create Booking"
-7. **Confirmation**: Receive email with booking details
+4. **Create Booking**: Click "✨ New Booking" tab and fill the form
+5. **Confirm**: Click "✅ Create Booking"
+6. **Confirmation**: Receive email with booking details
 
 ### For Users (RAG)
 
